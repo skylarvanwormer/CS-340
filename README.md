@@ -1,1 +1,11 @@
-# CS-340
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+Being able to write maintainable code seems to be exactly what everybody wants. As a developer keeping code up to date and easy to change so it is up to date it important. Adding functinalitly is a big aspect of it. Making it readable means adding comments so that if anyone else is reading your code they know what the lines of code are being used to do. Lastly adaptablility means that the code could be changed to be used for more than one thing and still work. In project 1 and 2 we did this by making sure our CRUD code worked for both of the projects. 
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+I think that as a computer scientist I have grown with how I handle problems. Each class and project is different so adapting to what I am learning is important. I first with every assignment make sure I know what is expected of me and what the client wants. With this class, I had never really done anything like this, so I made sure that I first had my CRUD python code all figured out before moving onto anything else. After that Iwas able to start using the Jupyter Notebook to make everything come together and see the database come to life. Being able to change it as I went along. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+The number one thing that I think computer scientists do is solve problems. A problem that companies have with certain things they haelp to make the problem go away or make a task easier. For example with the animal shelter e wanted them to have easy access to their database and be able to make changes accordingly. Computers really can make tasks easier as long as there is someone who is able to take on the problem correctly. 
